@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  padding-bottom:500px;
+  background-color:#c7bfbf;
+}
+
+h1{
+  color: rgb(33, 183, 53);
+}
+h2{
+  color:fuchsia;
+}
+
+p {
+  background-color: #999;
+  padding: 10px;
+}
